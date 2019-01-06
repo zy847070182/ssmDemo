@@ -19,7 +19,3 @@ INSERT INTO `paper` VALUES ('1', '机器学习', '2', 'mlmlmlml');
 INSERT INTO `paper` VALUES ('2', '深度学习', '3', 'dldldl');
 INSERT INTO `paper` VALUES ('3', '大数据', '4', 'bdbdbd');
 ---------------------
-作者：二营长的意大利面
-来源：CSDN
-原文：https://blog.csdn.net/khxu666/article/details/79851070
-版权声明：本文为博主原创文章，转载请附上博文链接！
